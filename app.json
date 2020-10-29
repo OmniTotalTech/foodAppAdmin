@@ -1,0 +1,12 @@
+{
+  "name": "foodAppAdmin",
+  "displayName": "foodAppAdmin",
+  "expo": {
+    "name": "foodAppAdmin",
+    "slug": "foodAppAdmin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
